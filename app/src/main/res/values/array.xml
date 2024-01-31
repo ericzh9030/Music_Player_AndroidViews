@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="sort_by">
+        <item>Title</item>
+        <item>Artist</item>
+        <item>Album</item>
+    </string-array>
+
+    <string-array name="sort_by_label">
+        <item>Sorted by Title</item>
+        <item>Sorted by Artist</item>
+        <item>Sorted by Album</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:key="auto_reload"
+        android:defaultValue="false"
+        android:title="Auto Reload"
+        android:summary="Refresh all songs in selected folder automatically when the APP starts"
+        />
+
+    <ListPreference
+        android:key="sorted_by"
+        android:defaultValue="Title"
+        android:title="Default List Order"
+        android:entries="@array/sort_by_label"
+        android:entryValues="@array/sort_by"
+        />
+</PreferenceScreen>

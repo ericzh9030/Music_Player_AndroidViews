@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="folder_button">Folder</string>
+    <string name="choose_a_folder_title">Choose a folder</string>
+    <string name="no_folder_selected_message">No Folder Selected</string>
+    <string name="empty_text">-</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="preferences">Preferences</string>
+    <string name="more_info">More Info</string>
+    <string name="list">List</string>
+    <string name="folder">Folder</string>
+    <string name="song">Song</string>
+</resources>
